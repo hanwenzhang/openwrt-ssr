@@ -67,7 +67,7 @@ ShadowsocksR-libev for OpenWrt
    ./scripts/feeds update packages
    ./scripts/feeds install libpcre
    # 获取 Makefile
-   git clone https://github.com/compasss/openwrt-ssr.git package/openwrt-ssr
+   git clone https://github.com/hanwenzhang/openwrt-ssr.git package/openwrt-ssr
    # 选择要编译的包 
    #luci ->3. Applications-> luci-app-shadowsocksR         原始版本
    #luci ->3. Applications-> luci-app-shadowsocksR-GFW     GFWList版本

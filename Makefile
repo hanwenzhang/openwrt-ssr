@@ -13,7 +13,7 @@ PKG_VERSION:=1.2.1
 #PKG_RELEASE:=1
 
 PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION).tar.gz
-PKG_SOURCE_URL:=https://github.com/hanwenzhang/shadowsocks-libev.git
+PKG_SOURCE_URL:=https://github.com/shadowsocks/openwrt-shadowsocks.git
 PKG_SOURCE_VERSION:=f064aaaf458aa5589ff938ba02586b436aa21719
 
 PKG_SOURCE_PROTO:=git
